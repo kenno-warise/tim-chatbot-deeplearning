@@ -1,0 +1,6 @@
+venv
+checkpoint
+data.pickle
+model.*
+.intents.json.*
+.python-version
